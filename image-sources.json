@@ -26,5 +26,124 @@
   "guarantee-3": "https://static.tildacdn.com/tild3965-3035-4564-b631-383134366331/Mask_group-25.png",
   "objects-0": "https://static.tildacdn.com/tild3739-6537-4037-b666-363061363139/IMG_5921.PNG",
   "objects-1": "https://static.tildacdn.com/tild3965-3738-4566-a165-353264306632/IMG_5105.PNG",
-  "objects-2": "https://static.tildacdn.com/tild6232-6538-4138-b238-303664626235/IMG_4481.PNG"
+  "objects-2": "https://static.tildacdn.com/tild6232-6538-4138-b238-303664626235/IMG_4481.PNG",
+  "catalog": [
+    {
+      "title": "А-фрейм",
+      "source": "https://static.tildacdn.com/tild6266-3136-4562-b839-323433376465/7.png",
+      "local": "assets/catalog-00.webp"
+    },
+    {
+      "title": "Барн 72",
+      "source": "https://static.tildacdn.com/tild3765-3164-4533-b366-663630366563/1_4.png",
+      "local": "assets/catalog-01.webp"
+    },
+    {
+      "title": "Барн 70",
+      "source": "https://static.tildacdn.com/tild6231-3335-4363-b138-653736383536/1_5.png",
+      "local": "assets/catalog-02.webp"
+    },
+    {
+      "title": "Барн 90",
+      "source": "https://static.tildacdn.com/tild3166-3836-4433-a530-326436643935/3_2.png",
+      "local": "assets/catalog-06.webp"
+    },
+    {
+      "title": "Барн 50",
+      "source": "https://static.tildacdn.com/tild3761-3966-4962-b266-303034313638/1_6.png",
+      "local": "assets/catalog-07.webp"
+    },
+    {
+      "title": "Барн 60",
+      "source": "https://static.tildacdn.com/tild3931-6136-4361-b438-616433303236/2_6.png",
+      "local": "assets/catalog-08.webp"
+    },
+    {
+      "title": "Барн 114",
+      "source": "https://static.tildacdn.com/tild3465-3766-4431-b330-386632623139/1_8.png",
+      "local": "assets/catalog-12.webp"
+    },
+    {
+      "title": "Сканди",
+      "source": "https://static.tildacdn.com/tild6331-3263-4834-b032-336466303830/1_3.png",
+      "local": "assets/catalog-13.webp"
+    },
+    {
+      "title": "Солид",
+      "source": "https://static.tildacdn.com/tild3966-6666-4537-b461-343831653934/1_3.png",
+      "local": "assets/catalog-14.webp"
+    },
+    {
+      "title": "Вуд",
+      "source": "https://static.tildacdn.com/tild3939-6331-4638-b637-363638666337/_85135_Photo_-_1.jpg",
+      "local": "assets/catalog-18.webp"
+    },
+    {
+      "title": "Барн 120",
+      "source": "https://static.tildacdn.com/tild3064-3233-4234-b364-653832306662/Gemini_Generated_Ima.png",
+      "local": "assets/catalog-19.webp"
+    },
+    {
+      "title": "Ривер",
+      "source": "https://static.tildacdn.com/tild6462-3238-4161-a433-333038383639/2.png",
+      "local": "assets/catalog-20.webp"
+    },
+    {
+      "title": "Грань",
+      "source": "https://static.tildacdn.com/tild6430-3362-4763-b662-616563393431/__1.png",
+      "local": "assets/catalog-24.webp"
+    },
+    {
+      "title": "Орбита",
+      "source": "https://static.tildacdn.com/tild6232-6638-4861-b435-346337323333/52b68278-aa51-47e1-a.jpg",
+      "local": "assets/catalog-25.webp"
+    },
+    {
+      "title": "Призма",
+      "source": "https://static.tildacdn.com/tild3465-3862-4439-b830-376236363334/42bffe86-a126-4a9a-8.jpg",
+      "local": "assets/catalog-26.webp"
+    },
+    {
+      "title": "Вектор",
+      "source": "https://static.tildacdn.com/tild3566-6331-4438-b964-656239346537/photo_52852133971526.jpg",
+      "local": "assets/catalog-30.webp"
+    },
+    {
+      "title": "Ритм",
+      "source": "https://static.tildacdn.com/tild3030-3339-4535-b431-623235613163/photo_52852133971526.jpg",
+      "local": "assets/catalog-31.webp"
+    },
+    {
+      "title": "Траектория",
+      "source": "https://static.tildacdn.com/tild6632-3730-4235-b839-363935383331/photo_52852133971526.jpg",
+      "local": "assets/catalog-32.webp"
+    },
+    {
+      "title": "Новая орбита",
+      "source": "https://static.tildacdn.com/tild6363-3061-4434-b138-303931646233/5ad4c3d4-bfbf-4049-a.jpg",
+      "local": "assets/catalog-36.webp"
+    },
+    {
+      "title": "Азимут",
+      "source": "https://static.tildacdn.com/tild3335-3664-4230-b134-623837353766/a456284c-1075-4ac7-a.jpg",
+      "local": "assets/catalog-37.webp"
+    },
+    {
+      "title": "Контур",
+      "source": "https://static.tildacdn.com/tild3161-3730-4333-b339-323237623238/dbd76a09-0c96-4b37-8.jpg",
+      "local": "assets/catalog-38.webp"
+    }
+  ],
+  "architect": [
+    "https://static.tildacdn.com/tild3262-6337-4361-b632-383136633030/ChatGPT_Image_16__20.png",
+    "https://static.tildacdn.com/tild6432-3736-4332-b130-376464633038/ChatGPT_Image_16__20.png",
+    "https://static.tildacdn.com/tild3636-3965-4139-b764-646366303239/free-icon-land-plot-.png",
+    "https://static.tildacdn.com/tild3030-3438-4737-a365-376131393638/free-icon-architect-.png",
+    "https://static.tildacdn.com/tild3332-3731-4664-a566-366162616335/free-icon-architect-.png"
+  ],
+  "quality": [
+    "https://static.tildacdn.com/tild3935-6533-4139-b963-353332323135/Group_37.png",
+    "https://static.tildacdn.com/tild3735-3336-4132-b838-643531383233/Group_35.png",
+    "https://static.tildacdn.com/tild6637-6631-4333-a237-316662393836/Group_34.png"
+  ]
 }
