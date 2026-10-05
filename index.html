@@ -12,10 +12,10 @@
 <div id="pd-original">
 <div class="preview-nav" role="tablist" aria-label="Страницы макета"><button type="button" aria-selected="true" role="tab" aria-controls="pd-home" id="pd-home-tab">Главная</button><button type="button" aria-selected="false" role="tab" aria-controls="pd-blog" id="pd-blog-tab">Статья блога</button></div>
 <div class="site">
-<header><a class="logo" href="#pd-top"><img src="assets/original-0.webp" alt="ПЛАНОДОМ" decoding="async" loading="eager" width="674" height="142"></a><nav><a href="#pd-catalog">Проекты и цены</a><a href="#pd-built">Построенные дома</a><a href="#pd-package">Комплектации</a><a href="#pd-mortgage">Ипотека</a><a href="#pd-about">О компании</a><a href="#pd-contact">Контакты</a></nav><div class="header-contact">
+<header class="main-header"><a class="logo" href="#pd-top"><img src="assets/original-0.webp" alt="ПЛАНОДОМ" decoding="async" loading="eager" width="674" height="142"></a><nav class="primary-nav" aria-label="Основное меню"><a class="mobile-direct" href="#pd-catalog"><span class="desktop-label">Проекты и цены</span><span class="mobile-label">Проекты</span></a><a class="mobile-direct" href="#pd-built">Построенные дома</a><a href="#pd-package">Комплектации</a><a href="#pd-mortgage">Ипотека</a><a href="#pd-about">О компании</a><a href="#pd-contact">Контакты</a></nav><div class="header-contact">
   <div class="phone"><a href="tel:+79151888569">+7 915 188 85 69</a><small><span class="online-dot" aria-hidden="true"></span>мы на связи</small></div>
-  <div class="messengers" aria-label="Связаться в мессенджере"><button type="button" disabled title="Ожидаем ссылку на MAX">MAX</button><a href="https://t.me/planodom" target="_blank" rel="noopener noreferrer">Telegram</a></div>
-</div></header>
+  <div class="messengers" aria-label="Связаться в мессенджере"><button class="messenger-icon" type="button" disabled aria-label="MAX — ссылка пока не подключена" title="MAX — ссылка пока не подключена"><img src="assets/max-icon.webp" alt="" width="32" height="32"></button><a class="messenger-icon" href="https://t.me/planodom" target="_blank" rel="noopener noreferrer" aria-label="Написать в Telegram" title="Telegram"><img src="assets/telegram-icon.svg" alt="" width="32" height="32"></a></div>
+</div><details class="mobile-menu"><summary aria-label="Открыть меню"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></summary><nav aria-label="Мобильное меню"><a href="#pd-catalog">Проекты и цены</a><a href="#pd-built">Построенные дома</a><a href="#pd-package">Комплектации</a><a href="#pd-mortgage">Ипотека</a><a href="#pd-about">О компании</a><a href="#pd-contact">Контакты</a><button class="blog-link" type="button">Блог и видео</button><button class="orange lead" type="button">Обсудить мой дом</button></nav></details></header>
 <main id="pd-home" role="tabpanel" aria-labelledby="pd-home-tab">
 <section class="hero" id="pd-top"><div class="hero-text"><p class="location">Москва и МО</p><h1>Готовый дом<br><em>под ключ<br>за 60 дней</em></h1><p>Строим современные каркасные дома<br>с коммуникациями и отделкой</p><button type="button" class="orange lead">Узнать стоимость дома</button></div><img class="hero-photo" src="assets/original-1.webp" alt="Дом с первого экрана planodom.ru" decoding="async" loading="eager" width="620" height="413"></section>
 <div class="orange-band" aria-label="Территория свободы. Жизнь без рамок. Уютная приватность. Выгодная инвестиция. Частная зона.">
@@ -55,7 +55,7 @@
 <section id="pd-mortgage" class="mortgage"><div><h2><em>Дом для всей семьи</em><br>по программе<br>«Ипотека на строительство дома»</h2><p>Помогаем с одобрением ипотеки</p><button class="orange lead" type="button">Узнать подробнее</button><p class="muted mortgage-note">Условия банка и программы уточняются при расчёте.</p><div class="mortgage-values"><div>Первоначальный взнос<strong>от 20%</strong></div><div>Сумма кредита<strong>до 12 млн ₽</strong></div><div>Ставка по кредиту<strong>от 6%</strong></div></div>
 <div class="mortgage-banks"><img src="assets/bank-0.webp" alt="Банк ДОМ.РФ" loading="eager" decoding="async" width="236" height="236"><img src="assets/bank-1.webp" alt="Сбер" loading="eager" decoding="async" width="124" height="124"></div>
 </div><img src="assets/original-6.webp" alt="Изображение из ипотечного блока исходного сайта" decoding="async" loading="eager" width="620" height="413"></section>
-<section class="ready"><h2>Строим дома с<br><em>готовыми коммуникациями</em></h2><div class="ready-content"><div class="system-grid"><article><h3>Панорамное остекление</h3><p>Двухкамерные стеклопакеты по всему дому.</p></article><article><h3>Чистовая отделка</h3><p>Внутри и снаружи дома.</p></article><article><h3>Отделка имитацией бруса</h3><p>Доска, окрашенная в цеху маслом Renne.</p></article><article><h3>Отопление</h3><p>Система по согласованной комплектации.</p></article></div><img class="ready-image" src="assets/ready-0.webp" alt="Иллюстрация дома в разрезе: панорамное остекление, внутренняя отделка и жилое пространство" decoding="async" loading="eager" width="1100" height="733"></div></section>
+<section class="ready comfort-section" id="pd-comfort"><h2>Строим дома с<br><em>готовыми коммуникациями</em></h2><p class="comfort-intro">Тёплый пол, готовая отделка и продуманные инженерные системы — чтобы после стройки вы занимались жизнью, а не ремонтом.</p><div class="comfort-visual"><img src="assets/comfort-cutaway-v4.webp" alt="Изометрический разрез каркасного дома: водяной тёплый пол в стяжке, котёл, слои утеплённой стены и готовая деревянная отделка" width="1536" height="1024" loading="eager"><a class="comfort-point" href="#pd-comfort-1" style="left:42%;top:74%" aria-label="1. Тепло под ногами">1</a><a class="comfort-point" href="#pd-comfort-2" style="left:84%;top:28%" aria-label="2. Прогрейте дом к приезду">2</a><a class="comfort-point" href="#pd-comfort-3" style="left:38%;top:18%" aria-label="3. Натуральное дерево — уже с отделкой">3</a><a class="comfort-point" href="#pd-comfort-4" style="left:90%;top:53%" aria-label="4. Стена, в которой работает каждый слой">4</a><a class="comfort-point" href="#pd-comfort-5" style="left:60%;top:52%" aria-label="5. Больше света и вида на участок">5</a><a class="comfort-point" href="#pd-comfort-6" style="left:84%;top:40%" aria-label="6. Коммуникации под вашу жизнь">6</a></div><p class="comfort-hint">Нажмите на номер на разрезе, чтобы узнать подробнее.</p><div class="comfort-grid"><article id="pd-comfort-1"><span class="comfort-number" aria-hidden="true">01</span><h3>Тепло под ногами</h3><p>Водяной тёплый пол в стяжке равномерно прогревает комнаты. Приятно ходить босиком, а стены остаются свободными от радиаторов.</p></article><article id="pd-comfort-2"><span class="comfort-number" aria-hidden="true">02</span><h3>Прогрейте дом к приезду</h3><p>Котёл с Wi-Fi-управлением позволяет менять температуру со смартфона. Включите комфортный режим заранее — приезжайте в тёплый дом.</p></article><article id="pd-comfort-3"><span class="comfort-number" aria-hidden="true">03</span><h3>Натуральное дерево — уже с отделкой</h3><p>Имитацию бруса красим в цеху маслом Renner. Получаете аккуратную поверхность и согласованный цвет без покрасочных работ после заселения.</p></article><article id="pd-comfort-4"><span class="comfort-number" aria-hidden="true">04</span><h3>Стена, в которой работает каждый слой</h3><p>Утеплитель удерживает тепло. Внутренний пароизоляционный слой защищает его от влаги из помещений, наружная мембрана — от ветра и осадков. Вентиляционный зазор помогает конструкции просыхать.</p></article><article id="pd-comfort-5"><span class="comfort-number" aria-hidden="true">05</span><h3>Больше света и вида на участок</h3><p>Панорамные окна впускают дневной свет и визуально расширяют комнаты. Энергоэффективные стеклопакеты помогают сохранять тепло.</p></article><article id="pd-comfort-6"><span class="comfort-number" aria-hidden="true">06</span><h3>Коммуникации под вашу жизнь</h3><p>Воду, канализацию, свет и розетки продумываем вместе с планировкой. Удобные подключения находятся там, где будут кухня, техника и рабочие места.</p></article></div><div class="comfort-bottom"><div><h3>Дом готов к вашему переезду</h3><p>Чистовая отделка внутри и снаружи. Состав работ и инженерных систем фиксируем в комплектации вашего дома.</p></div><button class="orange lead" type="button">Обсудить комплектацию</button></div></section>
 <section class="quality"><article><img src="assets/quality-0.webp" alt="Конструкция дома из сухой доски" loading="eager" decoding="async" width="720" height="480"><h3>Без усадки и перекосов</h3><p>Используем сухую доску камерной сушки — окна и двери не нужно регулировать спустя год.</p></article><article><img src="assets/quality-1.webp" alt="Усиленная конструкция свай и перекрытий" loading="eager" decoding="async" width="720" height="480"><h3>Жёсткая конструкция без вибраций</h3><p>Усиленный шаг свай и перекрытий — пол не пружинит, дом ощущается монолитным.</p></article><article><img src="assets/quality-2.webp" alt="Утепление с перекрытием стыков" loading="eager" decoding="async" width="720" height="480"><h3>Тепло без сквозняков</h3><p>Утепляем с перехлёстом стыка утеплителя предыдущего слоя.</p></article></section>
 <section class="visit" id="pd-visit"><div><p>Вы можете посетить наши строящиеся и построенные объекты или пожить в одном из построенных домов.</p><h2><em>Приглашаем</em> в гости</h2><button class="orange lead" type="button">Записаться на просмотр</button></div><img src="assets/visit-0.webp" alt="Дом Planodom" decoding="async" loading="eager" width="557" height="326"></section>
 <section class="director" id="pd-about"><img src="assets/original-7.webp" alt="Руководитель компании Planodom" decoding="async" loading="eager" width="270" height="480"><div><h2>«Отвечаю <em>за качество<br>строительства</em> лично»</h2><p>Лыхно Георгий Александрович</p><p class="muted">Руководитель компании</p></div></section>
@@ -346,5 +346,59 @@
 </script>
 <style>@media(max-width:360px){#pd-original header{grid-template-columns:110px minmax(0,1fr)}#pd-original header .logo{width:110px}}</style>
 <style>@media(max-width:760px){#pd-original header nav,#pd-original .guarantees{grid-template-columns:repeat(2,minmax(0,1fr))}#pd-original header nav a,#pd-original .guarantees article{min-width:0}#pd-original header nav a{white-space:normal;overflow-wrap:break-word}#pd-original .guarantees p{overflow-wrap:break-word}}@media(max-width:360px){#pd-original header nav a{font-size:14px}#pd-original .guarantees p{font-size:13px}}</style>
+<style>
+#pd-original .mobile-label,#pd-original .mobile-menu{display:none}
+#pd-original .messengers .messenger-icon{width:44px;height:44px;min-height:44px;padding:6px;border:0;background:transparent;border-radius:50%;flex-shrink:0}
+#pd-original .messengers .messenger-icon img{display:block;width:32px;height:32px;object-fit:contain}
+#pd-original .messengers button:disabled{opacity:1}
+#pd-original .comfort-intro{max-width:780px;font-size:18px}
+#pd-original .comfort-visual{position:relative;margin:20px 0 5px;background:#fff}
+#pd-original .comfort-visual>img{display:block;width:100%;height:auto}
+#pd-original .comfort-point{position:absolute;transform:translate(-50%,-50%);display:grid;place-items:center;width:44px;height:44px;background:#de5216;border:3px solid white;box-shadow:0 2px 12px #0002;color:#fff;border-radius:50%;font-size:17px;font-weight:600}
+#pd-original .comfort-point:hover,#pd-original .comfort-point:focus-visible{background:#ae3a08;outline:3px solid #de521640}
+#pd-original .comfort-hint{font-size:13px;color:#555;margin:8px 0 32px}
+#pd-original .comfort-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px 32px}
+#pd-original .comfort-grid article{border-top:1px solid #e2e2e2;padding:24px 0 0;scroll-margin-top:90px;min-width:0}
+#pd-original .comfort-number{display:block;color:#de5216;font-size:14px;margin-bottom:12px}
+#pd-original .comfort-grid h3{font-size:21px;margin-bottom:14px}
+#pd-original .comfort-grid p{font-size:16px;line-height:1.6}
+#pd-original .comfort-grid article:target{border-color:#de5216;background:#fff9f5}
+#pd-original .comfort-bottom{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:28px;background:#f7f7f7;border-radius:10px;margin-top:26px}
+#pd-original .comfort-bottom h3{font-size:21px}
+#pd-original .comfort-bottom p{margin:0;max-width:620px}
+#pd-original .comfort-bottom button{flex-shrink:0}
+@media(max-width:1000px){#pd-original .comfort-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){
+body{padding-top:calc(62px + env(safe-area-inset-top))}
+#pd-original .main-header{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 44px;padding:14px 20px 12px;gap:10px 16px;align-items:center}
+#pd-original .main-header>.logo{width:135px;grid-column:1;grid-row:1}
+#pd-original .header-contact{position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:space-between;width:100%;height:calc(62px + env(safe-area-inset-top));padding:calc(6px + env(safe-area-inset-top)) 16px 6px;background:#fff;border-bottom:1px solid #eee;box-shadow:0 2px 10px #00000008;gap:10px;margin:0}
+#pd-original .header-contact .phone{font-size:16px;text-align:left;line-height:1.25}
+#pd-original .header-contact .phone small{font-size:11px;margin-top:3px}
+#pd-original .header-contact .messengers{gap:4px}
+#pd-original .main-header>.primary-nav{grid-column:1/-1;grid-row:2;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;gap:22px;width:100%;font-size:14px}
+#pd-original .primary-nav>a:not(.mobile-direct){display:none}
+#pd-original .primary-nav .desktop-label{display:none}
+#pd-original .primary-nav .mobile-label{display:inline}
+#pd-original .main-header .primary-nav>a{font-size:14px;padding:6px 0;min-height:38px;white-space:nowrap;line-height:1.3}
+#pd-original .mobile-menu{display:block;position:static;grid-column:2;grid-row:1;border:0;padding:0;justify-self:end}
+#pd-original .mobile-menu>summary{display:grid;place-items:center;width:44px;height:44px;border:1px solid #ddd;border-radius:8px;color:#000;background:#fff;list-style:none}
+#pd-original .mobile-menu>summary::-webkit-details-marker{display:none}
+#pd-original .mobile-menu[open]>summary{color:#de5216;border-color:#de5216}
+#pd-original .mobile-menu>nav{display:flex;flex-direction:column;align-items:stretch;position:absolute;top:62px;left:20px;right:20px;z-index:100;background:#fff;padding:12px 18px 18px;border:1px solid #eee;border-radius:10px;box-shadow:0 10px 35px #0002;gap:0;font-size:16px;max-height:calc(100dvh - 155px);overflow:auto}
+#pd-original .mobile-menu nav>a,#pd-original .mobile-menu .blog-link{display:flex;align-items:center;min-height:46px;width:100%;padding:10px 0;border:0;background:none;text-align:left;font-size:16px}
+#pd-original .mobile-menu .orange{margin-top:12px;width:100%;font-size:15px}
+#pd-original section[id],#pd-original footer[id],#pd-original #pd-home-videos{scroll-margin-top:78px}
+#pd-original .comfort-intro{font-size:16px}
+#pd-original .comfort-grid{grid-template-columns:1fr;gap:12px}
+#pd-original .comfort-grid h3{font-size:21px}
+#pd-original .comfort-visual{margin-left:-10px;margin-right:-10px}
+#pd-original .comfort-point{width:34px;height:34px;border-width:2px;font-size:14px}
+#pd-original .comfort-bottom{flex-direction:column;align-items:stretch;padding:24px 20px;gap:20px}
+#pd-original .comfort-bottom button{width:100%}
+}
+@media(max-width:360px){#pd-original .header-contact .phone{font-size:15px}#pd-original .main-header .primary-nav{gap:18px}#pd-original .main-header .primary-nav>a{font-size:13px}}
+</style>
+<script>(()=>{const menu=document.querySelector('.mobile-menu');menu.querySelectorAll('a,button').forEach(a=>a.addEventListener('click',()=>menu.open=false));document.addEventListener('keydown',e=>{if(e.key==='Escape')menu.open=false;});document.addEventListener('click',e=>{if(menu.open&&!menu.contains(e.target))menu.open=false;});})();</script>
 </body>
 </html>

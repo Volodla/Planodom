@@ -319,5 +319,19 @@
       "youtube_id": "J1b8H1uEuj4",
       "poster": "assets/objects-2.webp"
     }
-  ]
+  ],
+  "comfort_cutaway": {
+    "local": "assets/comfort-cutaway-v4.webp",
+    "type": "generated architectural illustration",
+    "features": [
+      "water underfloor heating in screed",
+      "Wi-Fi boiler",
+      "oil finished wood cladding",
+      "layered timber-frame wall"
+    ]
+  },
+  "messenger_icons": {
+    "max": "https://st.max.ru/brandbook/max-colored.zip",
+    "telegram": "https://telegram.org/tour/screenshots?setln=ru"
+  }
 }
