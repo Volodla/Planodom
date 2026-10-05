@@ -10,13 +10,6 @@
     "https://static.tildacdn.com/tild3438-6630-4939-b666-633038306666/Gemini_Generated_Ima.png",
     "https://static.tildacdn.com/tild3333-3335-4732-a132-316534346131/Gemini_Generated_Ima.png"
   ],
-  "built": [
-    "https://static.tildacdn.com/tild3536-3236-4863-b935-663564313835/__Photo_-_1.jpg",
-    "https://static.tildacdn.com/tild3562-3234-4635-a231-393033373734/photo_2024-08-02_10-.jpg",
-    "https://static.tildacdn.com/tild3939-6165-4431-b135-376238613765/photo_2025-03-01_12-.jpg",
-    "https://static.tildacdn.com/css/tilda-img-select-1.0.min.css",
-    "https://static.tildacdn.com/js/tilda-img-select-1.0.min.js"
-  ],
   "visit": [
     "https://static.tildacdn.com/tild6366-3537-4864-b236-343737306466/Rectangle_88-2.png"
   ],
@@ -145,5 +138,186 @@
     "https://static.tildacdn.com/tild3935-6533-4139-b963-353332323135/Group_37.png",
     "https://static.tildacdn.com/tild3735-3336-4132-b838-643531383233/Group_35.png",
     "https://static.tildacdn.com/tild6637-6631-4333-a237-316662393836/Group_34.png"
+  ],
+  "realized_projects": [
+    {
+      "title": "А-фрейм 77,3 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor3462-6639-4638-b062-313564396337/1b99456f905e6ca8d373ee30162335d8.webp",
+        "https://static.tildacdn.com/stor3036-6530-4131-b833-646138663238/37e5b5ca31c57acbf090caba71fa9f50.webp"
+      ],
+      "local_images": [
+        "assets/realized-00-0.webp",
+        "assets/realized-00-1.webp"
+      ]
+    },
+    {
+      "title": "А-фрейм 2.0",
+      "sources": [
+        "https://static.tildacdn.com/stor6538-6534-4637-b533-643561393532/be70c25237a77aa9191370078e7ee197.jpg",
+        "https://static.tildacdn.com/stor3036-6639-4164-b835-303064353939/e377e4c6be915625d72ca6fbebbd0d50.png"
+      ],
+      "local_images": [
+        "assets/realized-01-0.webp",
+        "assets/realized-01-1.webp"
+      ]
+    },
+    {
+      "title": "Баня Барнхаус 49,71 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6461-3135-4762-b432-663733636564/aa76b7dec42f30d08f2368a1bc6a3ec9.jpg",
+        "https://static.tildacdn.com/stor6161-3265-4262-b866-356461353235/92a95bd00f5c50c2270d10073c696a42.jpg"
+      ],
+      "local_images": [
+        "assets/realized-02-0.webp",
+        "assets/realized-02-1.webp"
+      ]
+    },
+    {
+      "title": "Барнхаус с сауной 114 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor3131-6364-4135-a533-336562663231/2d7b686c24ca170053163c0dbcf75cac.png",
+        "https://static.tildacdn.com/stor6665-3933-4534-b430-396437306530/d502d1928b59828a2d8c3cf6d122cff8.png"
+      ],
+      "local_images": [
+        "assets/realized-03-0.webp",
+        "assets/realized-03-1.webp"
+      ]
+    },
+    {
+      "title": "Барнхаус 60 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6330-6631-4636-b565-643139663633/19753366114194c360e66d9ffd797fc2.png",
+        "https://static.tildacdn.com/stor3063-3462-4437-a639-616661343333/ae90e65c2e09c1b00db812cc95757ef7.png"
+      ],
+      "local_images": [
+        "assets/realized-04-0.webp",
+        "assets/realized-04-1.webp"
+      ]
+    },
+    {
+      "title": "Барнхаус 57 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6433-6531-4464-b133-396564366161/0bd5e40cb5bd437933adc9bd31dd62db.png",
+        "https://static.tildacdn.com/stor6233-3530-4832-b832-313163306139/9b292aeca4c34019f89266820e575507.png"
+      ],
+      "local_images": [
+        "assets/realized-05-0.webp",
+        "assets/realized-05-1.webp"
+      ]
+    },
+    {
+      "title": "Барнхаус 96 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6234-3232-4666-a637-663030336363/1fee1ca5a0bea5aee4c30092f8a029ee.png",
+        "https://static.tildacdn.com/stor6231-3937-4265-b032-383035376564/64dac9c9a78f99de479c582cea09f190.png"
+      ],
+      "local_images": [
+        "assets/realized-06-0.webp",
+        "assets/realized-06-1.webp"
+      ]
+    },
+    {
+      "title": "Вуд 142 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor3332-3638-4662-b936-643165326236/821afa4ea9c5c83b46f2476788cbff94.png",
+        "https://static.tildacdn.com/stor3465-6337-4163-b932-366334393961/9046cc0b0b3de75276e5d79c3195bd1b.png"
+      ],
+      "local_images": [
+        "assets/realized-07-0.webp",
+        "assets/realized-07-1.webp"
+      ]
+    },
+    {
+      "title": "Лобня 100 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6163-3637-4930-b539-666633306635/e1598b77e226b9f6bedc9514ab60a549.png",
+        "https://static.tildacdn.com/stor3033-3738-4239-b062-613033613738/ece87af49206679913bf4b24985450a3.png"
+      ],
+      "local_images": [
+        "assets/realized-08-0.webp",
+        "assets/realized-08-1.webp"
+      ]
+    },
+    {
+      "title": "Наро-Фоминск 124 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6532-3162-4363-a236-326130616432/4be5749f5eda681dcd0d1d81495b0442.png",
+        "https://static.tildacdn.com/stor6539-6266-4433-b161-396236393833/caa9f04df8ee74b3df6a22ff5a02c359.png"
+      ],
+      "local_images": [
+        "assets/realized-09-0.webp",
+        "assets/realized-09-1.webp"
+      ]
+    },
+    {
+      "title": "Ривер 60м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6561-3737-4732-b764-383861376634/7c4a4179250b65bc819dd0991fb1ae80.png",
+        "https://static.tildacdn.com/stor3462-6331-4566-a639-616336616636/be0512974fa62287b0a6e2189db38737.png"
+      ],
+      "local_images": [
+        "assets/realized-10-0.webp",
+        "assets/realized-10-1.webp"
+      ]
+    },
+    {
+      "title": "Солид 120 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6431-6534-4032-b761-346536613561/7a64c0953b59cee67ed9152dda5e512c.png",
+        "https://static.tildacdn.com/stor3337-3431-4639-b232-323136656133/4a0c1e45419b862cd4102299d90fe914.png"
+      ],
+      "local_images": [
+        "assets/realized-11-0.webp",
+        "assets/realized-11-1.webp"
+      ]
+    },
+    {
+      "title": "Спас-Каменка 94 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor3661-6533-4033-b032-333461316164/27f6fc85e9ab0235c81c5458752833f8.jpg",
+        "https://static.tildacdn.com/stor3534-3362-4934-b566-663162626531/6d66295474d9eb8d2b2e10bad36e9381.jpg"
+      ],
+      "local_images": [
+        "assets/realized-12-0.webp",
+        "assets/realized-12-1.webp"
+      ]
+    },
+    {
+      "title": "Спас-Каменка 2.0 94 м2",
+      "sources": [
+        "https://static.tildacdn.com/stor6235-3532-4031-a334-323364623763/870d6407503dc776f743d9ced37f6b89.png",
+        "https://static.tildacdn.com/stor6539-3462-4030-a266-633032376564/9356bff2ace9c2a3319dc182cf314ae3.png"
+      ],
+      "local_images": [
+        "assets/realized-13-0.webp",
+        "assets/realized-13-1.webp"
+      ]
+    },
+    {
+      "title": "Пирогово 140м2",
+      "sources": [
+        "https://static.tildacdn.com/stor3935-3935-4632-a464-623339363966/3e42eb4731c90ef75cbcbafdb5e8c87f.png",
+        "https://static.tildacdn.com/stor3535-6632-4862-b166-306535343561/ab202999bcb34d02be2e318f8749fb1d.png"
+      ],
+      "local_images": [
+        "assets/realized-14-0.webp",
+        "assets/realized-14-1.webp"
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "youtube_id": "hUe-Zh9r758",
+      "poster": "assets/objects-0.webp"
+    },
+    {
+      "youtube_id": "dsoAVWG21Eo",
+      "poster": "assets/objects-1.webp"
+    },
+    {
+      "youtube_id": "J1b8H1uEuj4",
+      "poster": "assets/objects-2.webp"
+    }
   ]
 }
