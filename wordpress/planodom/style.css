@@ -1,6 +1,6 @@
 /*
 Theme Name: Planodom
-Version: 0.1.0
+Version: 0.2.1
 Description: Первая версия темы на основе согласованного макета Planodom.
 Text Domain: planodom
 */
@@ -308,3 +308,49 @@ body{padding-top:calc(62px + env(safe-area-inset-top))}
 }
 
 #pd-original .preview-nav{display:none}
+/* WordPress content templates */
+#pd-original .main-header .primary-nav{justify-content:space-between;gap:20px;flex-wrap:wrap}
+#pd-original .primary-nav a{white-space:nowrap}
+#pd-original .pd-crumb{display:flex;flex-wrap:wrap;gap:10px;justify-content:flex-start;font-size:14px;color:#666;margin-bottom:24px}
+#pd-original .pd-crumb a{text-decoration:underline;text-underline-offset:3px}
+#pd-original .pd-page-head{padding-bottom:24px}
+#pd-original .pd-page-head h1{max-width:1000px}
+#pd-original .pd-intro{font-size:20px;line-height:1.6;max-width:850px}
+#pd-original .pd-cover{display:block;width:100%;max-height:650px;object-fit:cover;border-radius:12px;margin-top:30px}
+#pd-original .pd-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px}
+#pd-original .pd-card{min-width:0;display:flex;flex-direction:column;align-items:flex-start}
+#pd-original .pd-card>a:first-child{width:100%}
+#pd-original .pd-card img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:10px;margin-bottom:20px}
+#pd-original .pd-card h2,#pd-original .pd-card h3{font-size:23px;text-transform:none;line-height:1.35;margin-bottom:14px}
+#pd-original .pd-card p{font-size:16px;line-height:1.6}
+#pd-original .pd-card>.outline{margin-top:auto}
+#pd-original .pd-prose{font-size:17px;line-height:1.75;min-width:0}
+#pd-original .pd-prose p{margin-bottom:24px}
+#pd-original .pd-prose h2{font-size:28px;text-transform:none;margin-top:42px;scroll-margin-top:100px}
+#pd-original .pd-prose h3{font-size:22px;margin-top:30px;scroll-margin-top:100px}
+#pd-original .pd-prose a:not(.orange):not(.outline){color:#b83f0a;text-decoration:underline;text-underline-offset:3px}
+#pd-original .pd-prose img{max-width:100%;height:auto}
+#pd-original .pd-prose table{border-collapse:collapse;width:100%}
+#pd-original .pd-prose td,#pd-original .pd-prose th{padding:12px;border:1px solid #ddd}
+#pd-original .pd-prose blockquote{border-left:3px solid #de5216;padding:16px 24px;margin:24px 0;background:#fff7f1}
+#pd-original .pd-article-layout{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:60px;padding:15px 30px 50px}
+#pd-original .pd-sidebar{position:sticky;top:55px;align-self:start;padding:24px;background:#f7f7f7;border-radius:10px}
+#pd-original .pd-sidebar h2{font-size:20px;text-transform:none}
+#pd-original .pd-sidebar nav{display:flex;flex-direction:column;gap:0;align-items:stretch}
+#pd-original .pd-sidebar nav a{padding:8px 0;line-height:1.5;font-size:14px}
+#pd-original .pd-side-cta{border-top:1px solid #ddd;padding-top:22px;margin-top:22px}
+#pd-original .pd-side-cta .orange{width:100%}
+#pd-original .pd-page-body{padding:0 30px 60px}
+#pd-original .pd-page-body>section{padding-left:0;padding-right:0}
+#pd-original .pd-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin:28px 0}
+#pd-original .pd-gallery img{display:block;width:100%;height:auto;object-fit:contain;border-radius:10px;background:#f7f7f7}
+#pd-original .pd-pagination,#pd-original .pagination{display:flex;gap:12px;margin-top:36px}
+#pd-original .page-numbers{padding:10px 15px;border:1px solid #ddd;border-radius:5px}
+#pd-original .page-numbers.current{background:#de5216;color:white}
+#pd-original .article-cta{padding:28px;background:#f7f7f7;border-radius:10px;margin:35px 0}
+#pd-original .pd-page-body .catalog-grid p{min-height:0}
+#pd-original a:focus-visible,#pd-original button:focus-visible,#pd-original summary:focus-visible{outline:3px solid #de5216;outline-offset:4px}
+#pd-original .screen-reader-text{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:1000px){#pd-original .pd-article-layout{grid-template-columns:minmax(0,1fr) 240px;gap:30px}#pd-original .pd-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){#pd-original .main-header .primary-nav{justify-content:flex-start;flex-wrap:nowrap;gap:12px}#pd-original .pd-article-layout{display:flex;flex-direction:column;padding:0 20px 35px;gap:28px}#pd-original .pd-sidebar{position:static;order:-1;width:100%}#pd-original .pd-side-cta{display:none}#pd-original .pd-sidebar nav{display:block}#pd-original .pd-sidebar nav a{display:block;font-size:15px}#pd-original .pd-page-body{padding:0 20px 40px}#pd-original .pd-page-head h1{font-size:32px}#pd-original .pd-intro{font-size:18px}#pd-original .pd-cards{grid-template-columns:1fr;gap:35px}#pd-original .pd-gallery{grid-template-columns:1fr}#pd-original .pd-prose h2{font-size:25px}#pd-original .pd-cover{max-height:420px}#pd-original .pd-crumb{font-size:13px}}
+@media(prefers-reduced-motion:reduce){#pd-original .marquee-track{animation:none!important}html{scroll-behavior:auto}}

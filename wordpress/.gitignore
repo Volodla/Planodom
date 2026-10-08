@@ -1,0 +1,5 @@
+*.zip
+*.zip.tmp
+planodom/assets/source-*.webp
+*.generated.html
+*.generated.json

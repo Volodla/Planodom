@@ -1,0 +1,1724 @@
+{
+  "checked_at": "2026-10-08",
+  "site": "https://new.planodom.ru/",
+  "theme": "0.2.1",
+  "pages": [
+    {
+      "path": "",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "blog/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/a-freym/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/barn-72/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/barn-70/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/barn-90/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/barn-50/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/barn-60/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/barn-114/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/skandi/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/solid/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/vud/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/barn-120/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/river/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/gran/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/orbita/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/prizma/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/vektor/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/ritm/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/traektoriya/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/novaya-orbita/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/azimut/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "projects/kontur/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/a-freym-77-3-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/a-freym-2-0/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/banya-barnkhaus-49-71-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/barnkhaus-s-saunoy-114-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/barnkhaus-60-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/barnkhaus-57-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/barnkhaus-96-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/vud-142-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/lobnya-100-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/naro-fominsk-124-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/river-60m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/solid-120-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/spas-kamenka-94-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/spas-kamenka-2-0-94-m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built-houses/pirogovo-140m2/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "catalog/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "built/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "komplektatsiya/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "technology/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "about/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "ipoteka/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "glamping/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "visit/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "videos/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "contacts/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "politconf/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "sps/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "kak-vybrat-planirovku/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "dom-pod-klyuch/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    },
+    {
+      "path": "podgotovka-k-proektu/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "robot_header": "noindex, nofollow, noarchive",
+      "php_error": false,
+      "placeholders": false,
+      "duplicate_ids": [],
+      "missing_local_anchors": []
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/architect-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/architect-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/architect-2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/architect-3.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/architect-4.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/bank-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/bank-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/business-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/business-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-00.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-01.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-02.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-06.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-07.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-08.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-12.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-13.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-14.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-18.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-19.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-20.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-24.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-25.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-26.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-30.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-31.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-32.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-36.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-37.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/catalog-38.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/comfort-cutaway-v4.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/guarantee-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/guarantee-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/guarantee-2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/guarantee-3.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/max-icon.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/objects-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/objects-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/objects-2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/original-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/original-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/original-6.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/original-7.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/original-8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/quality-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/quality-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/quality-2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-00-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-00-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-01-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-01-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-02-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-02-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-03-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-03-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-04-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-04-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-05-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-05-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-06-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-06-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-07-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-07-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-08-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-08-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-09-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-09-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-10-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-10-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-11-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-11-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-12-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-12-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-13-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-13-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-14-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/realized-14-1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-02fff5f2cddd0d78.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-03dd4cf78c530729.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-06752e0a6f5c5a4e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-08368e779f2a50a4.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-083c253bb48ae286.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-0b96f5d9a043b5b6.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-0c094ad9fbfb29e8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-0c48026327f8b1ab.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-0d2bce429b732478.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-0e15176b4ba1c5b8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-12d4918a06c899a0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-13063e784d929be6.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-163c343a15652907.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-1676a361f15db7a6.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-16e0e53ba1111927.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-194bf5c064b3259a.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-1b88996953376c68.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-1c3735271d61a28a.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-1c88a9d15751fe3f.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-1da7a819189febb0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-1ecaf70ed4c17d4b.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-232218aa328077d8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-243255837c28515f.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-26c004019e59ab2e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-27d88ef144970b6e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-2afce145c8420429.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-2bc9967482f67950.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-2cef2889abf3f724.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-2e128b0f0d71a9bb.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-2e222a71e4768ef7.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-2f9e7b186cb6d247.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-336ae7231a79d273.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-346e5bc2128aac32.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-351a30e6c7f0fd12.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-376db03e7aebb94d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-38ad75ee7ceee768.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-3d07577ab3787dc2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-3d726bee53725e87.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-4202ed13bd6bbcb0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-4491d474af3477a9.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-454e04badbe73ef5.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-46bac05f1fac89e4.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-46bfe9ea7ba7c10a.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-4910fc86a0e080f8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-4990298c26cad4f3.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-4c0cb847450e245f.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-4c8304d5fd0057f7.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-4d586c4ea683121b.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5019f5c0ee496445.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5187c1d2a35c925c.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5296efe103d9f94d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-52a967c215ee7cac.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-52cd1ccb5515ee9b.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-54d4931bf85786c6.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-565ce8dcc070de2c.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5815007c080af4a4.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-592fed663d8ffb5d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-594e0b3e086b2dcc.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5a34f80f95144932.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5a7755c5c42034d2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5a9297a292455213.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5ca97ef2729e82bb.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-5ddfd088d1e2a1c4.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-62fb7351163decfb.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-63ea4942114ab503.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-63f9d338cb0e5571.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-64ac6966cf88b6e6.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-64d2a36896c84e79.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-652101089cb44028.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-6521275d3aa81557.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-6841c835edec1d79.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-6a6b4305bcae7611.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-6b174d58276ba0b8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7187d44020c022b5.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7360bb35ef269f7d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-73b61cd43cf28444.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-758f5bd4681f1d67.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7706d003c792703a.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7927edff91ad1081.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-79761edca80531c5.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7b25e944552d3fe5.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7b7ed5c3b39ed4a2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7cc14191f2b4892d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7d249b50dbe00c9b.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7d4b644a5a79ce4e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7de9be505585c806.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7df3dcc544f280c1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-7e2ce379946ea441.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-805b0c580a086c71.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-816b44a00a934e8e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-849df6b07783ae40.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-8535da430a1b2038.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-865e5e9b021a87ed.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-8a7f07baea3074ea.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-8ad6cd0abb7b3486.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-8b6a8bb89ccc73f0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-8d60dc08d7cd9bee.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-8e2551f6e484210d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-8f3628920d9ed3c8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9097a024182256f2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-92086305e01b9011.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-92620151f3094a2e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9299786165c80432.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9561a18e2619827f.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-964246f9dd638d32.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-99749831bd5e525f.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-99f568a27400432e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9a147711704845da.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9a3a78208ff614e9.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9b79688d243b0ad9.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9cae3e3e2c6b1e9d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-9febb265d437a8c1.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-a01db75edeaf72d3.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-a189f8ee5e4ab49a.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-a2d091af79b93be4.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-a646f44918995910.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-a752bbe18e07dba9.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-af9d4e8b0339e63c.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b0076d70ba6d927a.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b0eff18dde24e0df.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b269fbab58639347.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b27563e49a082189.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b2b292e24dbe1d12.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b55b6385617b4e0c.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b61ed489317ee32b.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-b8aa12bc8823cd54.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-ba03f1934b90464d.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-bb2cc6c8fd51ff36.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-bbd1afb6847ce3ff.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-be508e772631acec.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-be9e78a113b0bb74.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-c2bceb07d5926545.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-c4daab26e81b915b.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-c68383d1307ef2a7.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-cb6fca425d91549c.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-d0717460b3c65a67.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-d53888ac1cd024a9.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-d5a86a063672de74.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-d8e5082e1b5f1503.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-d8ff02c6d9b375c0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-daded2c5cdaccd8f.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-dae6871a80c65429.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-dce26f6cf2b330be.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-de8c6fad04b93e78.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-df9fc18392a2babe.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-e2602dd05dcb6a64.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-e536ec35eb544566.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-e5c66304e195385c.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-e610d37a3fec20e8.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-e6961324dd0ddb65.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-e8d371c5a0ab79c3.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-ec49d4ec3e13823e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-ed3ab9fec131ed93.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-ee3ba506373ee979.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-ef53823e23a6e7c2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-f0c07a715976193e.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-f2371a542ad4035f.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-f32ca53a6bff5df2.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-f37e8ad78d777ea9.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-f6156983d60376fa.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-f7fc9ff9bb6e28cf.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-fc97a2874371f9b5.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-fd908a4735296b83.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/source-fdb74fdb47aed211.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/technology-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/telegram-icon.svg",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/visit-0.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/assets/comfort-cutaway-v5.webp",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/site.js?ver=0.2.1",
+      "status": 200
+    },
+    {
+      "url": "https://new.planodom.ru/wp-content/themes/planodom/style.css?ver=0.2.1",
+      "status": 200
+    }
+  ],
+  "404_status": 404,
+  "legacy_destinations": [
+    {
+      "path": "page26427604.html",
+      "status": 200,
+      "url": "https://new.planodom.ru/"
+    },
+    {
+      "path": "compact",
+      "status": 200,
+      "url": "https://new.planodom.ru/catalog/"
+    },
+    {
+      "path": "page133939406.html",
+      "status": 200,
+      "url": "https://new.planodom.ru/"
+    }
+  ],
+  "robots_txt": "User-agent: *\nDisallow: /\n",
+  "browser_checks": {
+    "test_lead_saved": true,
+    "test_lead_moved_to_trash": true,
+    "test_email_sent": false,
+    "article_toc": true,
+    "article_cover": true,
+    "mobile_home_and_article": {
+      "viewport_css_px": 305,
+      "scroll_width_css_px": 305,
+      "broken_loaded_images": 0
+    },
+    "mobile_menu": true,
+    "wordpress_site_health": "Good; no critical issues"
+  },
+  "limits": [
+    "SMTP delivery not verified; test mail intentionally skipped",
+    "CRM and MAX not connected",
+    "Hosting recommendations: MySQL upgrade, page cache, unused plugins/themes"
+  ]
+}
